@@ -1,1 +1,5 @@
-# Kalkulator-UAS-13238
+# 
+UAS-Kalkulator
+
+# Versi
+Android Studio - Dolphin.
